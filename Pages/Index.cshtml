@@ -1,0 +1,68 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center d-flex flex-column align-items-centre justify-content-centre vh-100">
+    <div style="height:40px"></div>
+    <div class="gif-container mb-3">
+        <img id="gif" src="/css/Flower1.gif" width="200" />
+    </div>
+
+    <h1 class="text-center">Hi Pookie, will you be my valentines?</h1>
+
+    <div class="mt-2 d-flex justify-content-center align-items-center" style="gap: 20px; min-width: 200px;">
+        <button id="yesBtn" class="btn btn-success me-2">Yes</button>
+        <button id="noBtn" class="btn btn-danger">No</button>
+    </div>
+</div>
+
+<script>
+    let sizeIncrement = 10;
+    document.getElementById("noBtn").addEventListener("click", function () {
+        
+        var yesButton = document.getElementById("yesBtn");
+        var noButton = document.getElementById("noBtn");
+        let currentWidth = yesButton.offsetWidth;
+        let currentHeight = yesButton.offsetHeight;
+        let currentFontSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
+        let text = "";
+
+        if (currentFontSize > 20) {
+            text = "Please?";
+            document.getElementById("gif").src = "/css/Please.gif";
+            if (currentFontSize > 42) {
+                text = "Are you sure?"
+                document.getElementById("gif").src = "/css/AreYouSure2.gif";
+                if (currentFontSize > 64){
+                    text = "BABY???";
+                    document.getElementById("gif").src = "/css/Baby.gif";
+                    if (currentFontSize > 82){
+                        text = "Nah try again.";
+                        document.getElementById("gif").src = "/css/TryAgain1.gif";
+                        noButton.style.display = "none";
+                    }
+                }
+            }
+            yesButton.innerText = text;
+        }
+
+        if (currentFontSize < 84) {
+            yesButton.style.width = (currentWidth + sizeIncrement) + "px";
+            yesButton.style.height = (currentHeight + sizeIncrement) + "px";
+            yesButton.style.fontSize = (currentFontSize + 2) + "px";
+        }
+    });
+
+    document.getElementById("yesBtn").addEventListener("click", function () {
+        var yesButton = document.getElementById("yesBtn");
+        let currentFontSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
+        if (currentFontSize > 82) {
+            window.location.reload();
+        }
+        else {
+            window.location.replace("/Success");
+        }
+    });
+</script>

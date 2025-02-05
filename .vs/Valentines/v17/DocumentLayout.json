@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\success.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\success.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|c:\\users\\antho\\documents\\business projects\\kieu\\valentines\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86780BA0-ECA7-4234-ADC9-961D5AE6B428}|Valentines.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:20:04.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Success.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Success.cshtml.cs",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Success.cshtml.cs",
+              "RelativeToolTip": "Pages\\Success.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:20:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Success.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Success.cshtml",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Success.cshtml",
+              "RelativeToolTip": "Pages\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T15:15:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:27:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:27:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:23:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:21:37.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\antho\\Documents\\Business Projects\\Kieu\\Valentines\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:23:33.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
