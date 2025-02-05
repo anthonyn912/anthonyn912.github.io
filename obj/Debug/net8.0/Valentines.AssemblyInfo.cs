@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valentines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aaafea36e5347fccad1cce3fb91a9d6f274a852")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valentines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valentines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
